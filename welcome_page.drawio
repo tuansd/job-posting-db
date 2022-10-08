@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="gPTgJ4hDuoiZB_5YDPXf" name="Page-1">
+        <mxGraphModel dx="706" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="50" width="270" height="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="logo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="60" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="100" width="250" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="110" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="tim tho nhanh&lt;br&gt;va de" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="110" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="search here" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="170" width="250" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="shape=link;html=1;" edge="1" parent="1">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="490" y="70" as="sourcePoint"/>
+                        <mxPoint x="520" y="70" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="" style="shape=link;html=1;" edge="1" parent="1">
+                    <mxGeometry width="100" relative="1" as="geometry">
+                        <mxPoint x="490" y="80" as="sourcePoint"/>
+                        <mxPoint x="520" y="80" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="Welcome!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="60" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Welcome page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="490" width="250" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
